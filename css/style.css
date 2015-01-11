@@ -1,0 +1,16 @@
+table {
+    margin: 1cm auto auto auto
+}
+
+table tr td {
+    width: 65px;
+    height: 89px;
+}
+
+#grid img {
+    width: 60px;    
+}
+
+body{
+    background-color: #cccccc;
+}
